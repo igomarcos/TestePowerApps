@@ -6,3 +6,9 @@ Screen1 As screen:
         Y: =360
         ZIndex: =1
 
+    Button1 As button:
+        Text: ="Botão"
+        X: =534
+        Y: =452
+        ZIndex: =2
+
